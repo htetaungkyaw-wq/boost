@@ -1,7 +1,4 @@
 
-  # Plan That Trip. (Community)
-
-  This is a code bundle for Plan That Trip. (Community). The original project is available at https://www.figma.com/design/28eLpfI7V8C9OawNJDklPI/Plan-That-Trip.--Community-.
 
   ## Running the code
 
